@@ -110,19 +110,19 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: DelicateLichKing
 
 
 #################################### global configure #######################################
 
 username: DelicateLichKing
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
 title: 污
 description: 优雅的污妖王
-theme: midnight 
+theme: kunka
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
