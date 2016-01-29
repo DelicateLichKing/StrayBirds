@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Eclipse 2 AS 迁徙
-comments：false
-category：技术
+category: Android
+comments: false
 ---
 
 ##一.乱码
