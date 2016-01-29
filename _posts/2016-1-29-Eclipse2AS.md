@@ -2,7 +2,7 @@
 layout: post
 title: Eclipse 2 AS 迁徙
 comments：false
-category：Android
+category：技术
 ---
 
 ##一.乱码
