@@ -66,8 +66,8 @@ nav:
 #Author config
 author:
     name: DelicateLichKing
-    email: kimise@163.com
-    imageLink: https://avatars.githubusercontent.com/minixalpha
+    email: 858574252@qq.com
+    imageLink: https://avatars.githubusercontent.com/DelicateLichKing
     simpleIntro: 我是 DelicateLichKing
     detailIntro:
       <p>Jekyll 是一个简洁的、特别针对博客平台的 静态网站 生成器。它使用一个模板目录作为网站布局的基础框架，并在其上运行 Textile 、 Markdown 或 Liquid 标记语言的转换器，最终生成一个完整的静态Web站点，可以被放置在Apache或者你喜欢的其他任何Web服务器上。它同时也是 GitHub Pages 、一个由 GitHub 提供的用于托管项目主页或博客的服务，在后台所运行的引擎。</p>
@@ -109,8 +109,8 @@ customLinks:
 
 #comment config
 disqus:
-  config: false
-  id: DelicateLichKing
+  config:  true
+  id: delicatelichking
 
 
 #################################### global configure #######################################
@@ -123,7 +123,7 @@ highlighter: pygments
 title: 污
 description: 优雅的污妖王
 theme: kunka
-disqusname: DelicateLichKing
+disqusname: delicatelichking
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
