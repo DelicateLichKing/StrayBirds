@@ -33,7 +33,7 @@ jniLibs.srcDirs=['libs']即可。
 
 放入libs文件夹，重写运行工程或add as library。
 
-##另附：cmd ge连接错误 
+##另附：cmd gem连接错误 
 
 因为ruby的软件源rubygems.org因为使用亚马逊的云服务，被我天朝屏蔽了，需要更新一下ruby的源，过程如下：
 
