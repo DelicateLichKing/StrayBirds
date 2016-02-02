@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eclipse 2 AS 迁徙
-category: Android
+category: 问题
 comments: false
 ---
 
