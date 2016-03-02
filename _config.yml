@@ -122,7 +122,7 @@ safe: false
 highlighter: pygments
 title: 轻霜月
 description: 眼睛为她下着雨，心却为她打着伞。
-theme: minimal
+theme: kunka
 disqusname: kimise
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
